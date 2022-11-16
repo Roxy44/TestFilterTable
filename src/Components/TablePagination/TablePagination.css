@@ -1,0 +1,10 @@
+.paggination {
+    margin-top: 1rem;
+}
+
+.previousButton {
+    margin-right: 0.5rem;
+}
+.nextButton {
+    margin-left: 0.5rem;
+}
