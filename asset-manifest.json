@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestFilterTable/static/css/main.d18ed835.css",
+    "main.js": "/TestFilterTable/static/js/main.45d8736e.js",
+    "index.html": "/TestFilterTable/index.html",
+    "main.d18ed835.css.map": "/TestFilterTable/static/css/main.d18ed835.css.map",
+    "main.45d8736e.js.map": "/TestFilterTable/static/js/main.45d8736e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18ed835.css",
+    "static/js/main.45d8736e.js"
+  ]
+}
